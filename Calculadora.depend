@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1401296256 source:c:\users\led\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aritimetica.h"
+	"inversa.h"
+	"fatorial.h"
+	"seno.h"
+	"area.h"
+	"verifica.h"
+	"contantes.h"
+	"juros.h"
+	"progrecao.h"
+	"media.h"
+	"convert.h"
+
+1400725514 c:\users\led\desktop\calculadora\aritimetica.c
+
+1400733349 c:\users\led\desktop\calculadora\aritimetica.h
+	<stdio.h>
+
+1400734965 c:\users\led\desktop\calculadora\inversa.h
+	<stdio.h>
+	<math.h>
+
+1401289777 c:\users\led\desktop\calculadora\fatorial.h
+	<stdio.h>
+	<math.h>
+
+1401291952 c:\users\led\desktop\calculadora\seno.h
+	<stdio.h>
+	<math.h>
+
+1400826268 c:\users\led\desktop\calculadora\area.h
+	<stdio.h>
+
+1400826974 c:\users\led\desktop\calculadora\verifica.h
+	<stdio.h>
+
+1400827508 c:\users\led\desktop\calculadora\contantes.h
+	<stdio.h>
+
+1400829582 c:\users\led\desktop\calculadora\juros.h
+	<stdio.h>
+
+1400830855 c:\users\led\desktop\calculadora\progrecao.h
+	<stdio.h>
+
+1401291807 c:\users\led\desktop\calculadora\media.h
+	<stdio.h>
+	<math.h>
+
+1401296337 c:\users\led\desktop\calculadora\convert.h
+	<stdio.h>
+
+1401296686 source:c:\users\led\desktop\calculadora beta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aritimetica.h"
+	"inversa.h"
+	"fatorial.h"
+	"seno.h"
+	"area.h"
+	"verifica.h"
+	"contantes.h"
+	"juros.h"
+	"progrecao.h"
+	"media.h"
+	"convert.h"
+
+1400733349 c:\users\led\desktop\calculadora beta\aritimetica.h
+	<stdio.h>
+
+1400734965 c:\users\led\desktop\calculadora beta\inversa.h
+	<stdio.h>
+	<math.h>
+
+1401289777 c:\users\led\desktop\calculadora beta\fatorial.h
+	<stdio.h>
+	<math.h>
+
+1401291952 c:\users\led\desktop\calculadora beta\seno.h
+	<stdio.h>
+	<math.h>
+
+1400826268 c:\users\led\desktop\calculadora beta\area.h
+	<stdio.h>
+
+1400826974 c:\users\led\desktop\calculadora beta\verifica.h
+	<stdio.h>
+
+1400827508 c:\users\led\desktop\calculadora beta\contantes.h
+	<stdio.h>
+
+1400829582 c:\users\led\desktop\calculadora beta\juros.h
+	<stdio.h>
+
+1400830855 c:\users\led\desktop\calculadora beta\progrecao.h
+	<stdio.h>
+
+1401291807 c:\users\led\desktop\calculadora beta\media.h
+	<stdio.h>
+	<math.h>
+
+1401671654 c:\users\led\desktop\calculadora beta\convert.h
+	<stdio.h>
+
+1401296686 source:c:\users\led\desktop\prog\calculadora beta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aritimetica.h"
+	"inversa.h"
+	"fatorial.h"
+	"seno.h"
+	"area.h"
+	"verifica.h"
+	"contantes.h"
+	"juros.h"
+	"progrecao.h"
+	"media.h"
+	"convert.h"
+
+1400733349 c:\users\led\desktop\prog\calculadora beta\aritimetica.h
+	<stdio.h>
+
+1400734965 c:\users\led\desktop\prog\calculadora beta\inversa.h
+	<stdio.h>
+	<math.h>
+
+1401289777 c:\users\led\desktop\prog\calculadora beta\fatorial.h
+	<stdio.h>
+	<math.h>
+
+1401291952 c:\users\led\desktop\prog\calculadora beta\seno.h
+	<stdio.h>
+	<math.h>
+
+1400826268 c:\users\led\desktop\prog\calculadora beta\area.h
+	<stdio.h>
+
+1400826974 c:\users\led\desktop\prog\calculadora beta\verifica.h
+	<stdio.h>
+
+1400827508 c:\users\led\desktop\prog\calculadora beta\contantes.h
+	<stdio.h>
+
+1400829582 c:\users\led\desktop\prog\calculadora beta\juros.h
+	<stdio.h>
+
+1400830855 c:\users\led\desktop\prog\calculadora beta\progrecao.h
+	<stdio.h>
+
+1401291807 c:\users\led\desktop\prog\calculadora beta\media.h
+	<stdio.h>
+	<math.h>
+
+1401671654 c:\users\led\desktop\prog\calculadora beta\convert.h
+	<stdio.h>
+
